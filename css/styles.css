@@ -1,0 +1,77 @@
+@charset "UTF-8";
+@import url("../webfonts/Vinyl_Regular/stylesheet.css");
+@import url("schoolbully/stylesheet.css");
+.container-fluid .navbar-header .navbar-brand {
+	margin-top: 20px;
+	padding-bottom: 0px;
+	font-size: xx-large;
+	margin-bottom: 20px;
+}
+.navlistitem {
+	color: #000000;
+	font-size: medium;
+	padding-top: 20px;
+	margin-left: 20px;
+}
+.container-fluid .navbar-header .navbar-brand {
+	font-family: schoolbully;
+	font-style: oblique;
+	font-weight: 400;
+	font-size: xx-large;
+}
+sign {
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	margin-right: 8px;
+	margin-bottom: 8px;
+	margin-left: 8px;
+}
+.navbar-form.navbar-right .form-group .form-control {
+	padding-right: 0px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.nav.navbar-nav.navlist .navlistitem a {
+}
+.h1 {
+	text-align: center;
+	font-family: schoolbully;
+}
+body {
+	background-image: url(../Pictures/pastawhite.png);
+}
+.row .col-md-5 h2 {
+	text-align: center;
+}
+.row .col-md-5 p {
+	text-align: center;
+}
+.col-md-10.col-md-offset-1 .row .col-md-5 {
+	background-color: #FFFFFF;
+}
+body h1 {
+	text-align: center;
+}
+body h2 {
+	text-align: center;
+}
+body p {
+	text-align: center;
+}
+.sectionRight {
+	float: right;
+	margin-top: 25px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+	margin-left: 25px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,0,0,1.00) 100%);
+}
